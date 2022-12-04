@@ -60,6 +60,7 @@ form button:hover {
 .paragrafo-resultado, .paragrafo-resultado-invalido {
   background: var(--primary-color);
   padding: 10px 20px;
+  color: #fff;
 }
 
 .paragrafo-resultado-invalido {
